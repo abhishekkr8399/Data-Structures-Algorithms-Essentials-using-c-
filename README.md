@@ -28,7 +28,7 @@ This repository contains:
 
 ## How to Use
 
-1.  Clone the repository: `git clone https://github.com/abhishekkr8399/Data-Structures-Algorithms-Essentials-using-c-.git`
+1.  Clone the repository: `git clone https://github.com/abhishekkr8399/Data-Structures-Algorithms-Essentials-using-cpp.git`
 2.  Navigate to the desired directory.
 3.  Compile and run the C++ files using your preferred compiler.
 4.  Explore the code and experiment with the examples.
